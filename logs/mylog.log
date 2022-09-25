@@ -1,0 +1,499 @@
+[INFO ] 2022-09-20 09:12:20.168 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 09:12:34.386 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 09:12:34.605 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 09:12:34.716 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 09:12:49.068 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 09:12:49.236 [main] MyStoreV1 - clicked on create an account button
+[INFO ] 2022-09-20 10:26:51.889 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 10:26:56.097 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 10:26:56.221 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 10:26:56.342 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 10:27:09.808 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 10:27:09.961 [main] MyStoreV1 - clicked on create an account button
+[INFO ] 2022-09-20 10:33:02.064 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 10:33:08.245 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 10:33:08.372 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 10:33:08.479 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 10:47:27.963 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 10:47:34.522 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 10:47:34.680 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 10:47:34.749 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:06:12.067 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:06:25.468 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:06:25.768 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:06:25.902 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:10:08.195 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:10:14.263 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:10:14.427 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:10:14.561 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:10:19.830 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-20 11:10:19.869 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-20 11:16:59.776 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:17:03.388 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:17:03.544 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:17:03.674 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:17:08.038 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-20 11:17:08.081 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-20 11:27:16.067 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:27:20.841 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:27:20.991 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:27:21.118 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:27:23.144 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-20 11:27:23.184 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-20 11:28:15.787 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:28:22.471 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:28:22.629 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:28:22.765 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:28:25.396 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-20 11:28:25.430 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-20 11:30:29.053 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:30:37.159 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:30:37.325 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:30:37.470 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:30:40.672 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-20 11:30:40.727 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-20 11:44:33.389 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-20 11:44:39.949 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-20 11:44:40.116 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-20 11:44:40.243 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-20 11:44:44.034 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-20 11:44:44.066 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-21 01:05:06.139 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:05:07.002 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:05:58.907 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:06:07.728 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:06:08.737 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:06:08.849 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:06:21.797 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:06:21.858 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:25:53.855 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:26:11.891 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:26:12.018 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:26:12.128 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:26:21.259 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:26:21.301 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:36:14.039 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:36:29.936 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:36:30.129 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:36:30.290 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:36:48.866 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:36:48.901 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:42:19.072 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:42:21.784 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:42:21.945 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:42:22.080 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:42:25.012 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:42:25.052 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:47:18.676 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:47:23.572 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:47:23.734 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:47:23.867 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:47:27.449 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:47:27.489 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:49:11.544 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:49:16.311 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:49:16.466 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:49:16.598 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:49:19.405 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:49:19.454 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:55:57.913 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:57:00.761 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 01:57:03.284 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:57:03.464 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 01:57:03.589 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 01:57:08.486 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 01:57:08.530 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 01:57:17.416 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 01:57:17.614 [main] MyStoreV1 - clicked on create an account button
+[INFO ] 2022-09-21 01:57:24.371 [main] MyStoreV1 - Clicked on Register Button
+[INFO ] 2022-09-21 06:56:16.316 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 06:56:24.321 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 06:56:24.507 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 06:56:24.664 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 06:56:40.481 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 06:56:40.544 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 07:09:31.795 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 07:09:36.547 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 07:09:36.738 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 07:09:36.877 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 07:09:52.400 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 07:09:52.465 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 07:19:37.240 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 07:19:48.500 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 07:19:48.713 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 07:19:48.896 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 07:19:55.794 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 07:19:55.844 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 07:44:00.377 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 07:44:05.915 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 07:44:06.090 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 07:44:06.268 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 07:44:13.382 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 07:44:13.434 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-21 07:50:58.453 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 07:51:01.302 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 07:51:01.508 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 07:51:01.659 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 07:51:04.479 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 07:51:04.524 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 07:58:46.569 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 07:58:59.618 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 07:58:59.896 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 07:59:00.109 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 07:59:11.110 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 07:59:11.160 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:10:54.089 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:10:59.108 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:10:59.335 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:10:59.513 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:11:04.640 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:11:04.693 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:13:11.070 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:13:14.993 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:13:15.189 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:13:15.355 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:13:24.542 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:13:24.598 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:18:46.108 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:18:50.575 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:18:50.770 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:18:50.918 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:18:53.782 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:18:53.837 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:19:56.571 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:20:14.836 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:20:15.060 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:20:15.246 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:20:29.895 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:20:29.952 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:23:38.973 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:23:52.832 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:23:53.088 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:23:53.269 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:24:02.105 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:24:02.148 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:28:53.183 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:28:57.482 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:28:57.672 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:28:57.844 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:29:01.078 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:29:01.153 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 08:39:44.189 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 08:39:52.399 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 08:39:52.656 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 08:39:52.857 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 08:40:02.051 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 08:40:02.092 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 23:03:15.399 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:15:43.828 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:16:05.636 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:16:05.819 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 23:16:05.960 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 23:16:18.326 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 23:22:55.174 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:23:17.516 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:23:17.685 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 23:23:17.839 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 23:23:38.789 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 23:23:38.841 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-21 23:26:12.533 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:26:12.939 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:26:54.191 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:26:54.762 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:28:17.127 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:28:17.661 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:30:44.208 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:30:44.593 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:31:57.471 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:32:05.462 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:59:34.569 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-21 23:59:39.662 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-21 23:59:40.234 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-21 23:59:40.351 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-21 23:59:44.167 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-21 23:59:44.417 [main] MyStoreV1 - verifyLogin - Failed
+[INFO ] 2022-09-22 00:03:29.782 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-22 00:03:35.410 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-22 00:03:35.653 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-22 00:03:35.820 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-22 00:03:54.268 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-22 00:03:54.312 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-22 00:40:49.453 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-22 00:40:56.246 [main] MyStoreV1 - clickOnsign
+[INFO ] 2022-09-22 00:40:56.439 [main] MyStoreV1 - enterEmailAddress
+[INFO ] 2022-09-22 00:40:56.604 [main] MyStoreV1 - enterPassword
+[INFO ] 2022-09-22 00:41:03.070 [main] MyStoreV1 - clickSubmit
+[INFO ] 2022-09-22 00:41:03.116 [main] MyStoreV1 - verifyLogin - Passed
+[INFO ] 2022-09-22 03:47:32.111 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-22 03:47:32.142 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-22 03:47:40.419 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-22 03:47:40.559 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-22 03:47:40.659 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-22 03:47:44.777 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-22 03:47:44.829 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-22 03:47:50.766 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-22 03:47:50.846 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-22 03:47:57.107 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-22 03:47:57.188 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-22 03:47:57.259 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-22 03:48:01.011 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-22 03:48:08.890 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2022-09-22 03:48:08.890 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2022-09-22 03:48:28.397 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-22 03:48:28.400 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-22 03:48:31.241 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-22 03:48:43.199 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-22 03:48:43.291 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2022-09-22 03:48:51.556 [main] MyStoreV1 - clicked on search button
+[INFO ] 2022-09-22 03:48:56.441 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2022-09-22 03:49:00.545 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2022-09-22 03:49:00.777 [main] MyStoreV1 - size M entered
+[INFO ] 2022-09-22 03:49:00.856 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2022-09-22 03:49:12.923 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2022-09-22 03:49:18.588 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-09-22 03:49:25.019 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2022-09-22 03:49:25.091 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2022-09-22 03:49:30.968 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-09-22 03:49:31.157 [main] MyStoreV1 - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-09-22 03:49:33.393 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2022-09-22 03:52:33.449 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-22 03:53:41.671 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-23 00:44:50.677 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 00:44:50.749 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-23 00:44:50.970 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 00:44:51.014 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-23 00:44:51.053 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 00:44:51.105 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-23 00:44:57.968 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 00:44:58.741 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 00:44:58.982 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 00:44:59.011 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 00:44:59.361 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 00:44:59.568 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 00:44:59.868 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 00:45:00.148 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 00:45:00.321 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 00:45:05.416 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 00:45:05.700 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-23 00:45:06.085 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 00:45:06.113 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 00:45:06.155 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-23 00:45:06.167 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-23 00:45:10.765 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-23 00:45:10.932 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-23 00:45:12.493 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-23 00:45:12.547 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-23 00:45:12.793 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-23 00:45:12.817 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-23 00:45:19.210 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 00:45:19.308 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 00:45:19.396 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 00:45:21.959 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 00:45:22.075 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 00:45:22.175 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 00:45:22.463 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 00:45:22.562 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 00:45:22.641 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 00:45:28.561 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 00:45:38.456 [main] MyStoreV1 - VerifySignOut - Failed
+[INFO ] 2022-09-23 00:45:38.688 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 00:45:39.994 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 00:45:52.147 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2022-09-23 00:45:52.147 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2022-09-23 00:46:05.001 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2022-09-23 00:46:05.002 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2022-09-23 00:46:18.789 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 00:46:18.793 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-23 00:46:22.015 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 00:46:22.017 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-23 00:46:25.515 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-23 00:46:33.156 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-23 00:46:35.199 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 00:46:35.202 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-23 00:46:49.677 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-23 00:46:49.757 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2022-09-23 00:46:53.385 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-23 00:47:03.404 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-23 00:47:03.508 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-23 00:47:03.608 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2022-09-23 00:47:05.201 [main] MyStoreV1 - clicked on search button
+[INFO ] 2022-09-23 00:47:11.655 [main] MyStoreV1 - clicked on search button
+[INFO ] 2022-09-23 00:47:15.108 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2022-09-23 00:47:19.533 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2022-09-23 00:47:19.738 [main] MyStoreV1 - size M entered
+[INFO ] 2022-09-23 00:47:19.818 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2022-09-23 00:47:23.204 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2022-09-23 00:47:27.390 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2022-09-23 00:47:27.536 [main] MyStoreV1 - size M entered
+[INFO ] 2022-09-23 00:47:27.605 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2022-09-23 00:47:36.815 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2022-09-23 00:47:45.366 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2022-09-23 00:47:52.293 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-09-23 00:47:55.598 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-09-23 00:48:10.181 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2022-09-23 00:48:10.198 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2022-09-23 00:48:10.308 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2022-09-23 00:48:10.314 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2022-09-23 00:48:19.408 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-09-23 00:48:19.530 [main] MyStoreV1 - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-09-23 00:48:20.008 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-09-23 00:48:20.016 [main] MyStoreV1 - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-09-23 00:48:22.663 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2022-09-23 00:48:22.988 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2022-09-23 00:48:35.515 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2022-09-23 00:48:35.557 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2022-09-23 00:48:36.198 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2022-09-23 00:48:36.232 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2022-09-23 00:48:52.899 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-09-23 00:48:52.901 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-23 00:48:54.003 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-09-23 00:48:54.005 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-23 00:49:00.883 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-23 00:49:02.048 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-23 00:49:08.785 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-23 00:49:09.969 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-23 00:49:14.298 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2022-09-23 00:49:15.798 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2022-09-23 00:49:19.725 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2022-09-23 00:49:19.727 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-23 00:49:20.191 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2022-09-23 00:49:20.193 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-23 00:49:27.643 [main] MyStoreV1 - verifyAddToWishlistWithoutLogin - passed
+[INFO ] 2022-09-23 00:49:30.528 [main] MyStoreV1 - verifyAddToWishlistWithoutLogin - passed
+[INFO ] 2022-09-23 01:17:42.652 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 01:17:42.709 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-23 01:17:43.190 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 01:17:46.847 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-23 01:18:18.043 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 01:18:18.045 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-23 01:18:30.272 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-23 01:32:48.097 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 01:32:48.131 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-23 01:32:59.580 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 01:32:59.809 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 01:32:59.933 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 01:33:16.919 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 01:33:16.997 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-23 01:33:45.741 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-23 01:33:45.900 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-23 01:33:59.844 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-23 01:33:59.933 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-23 01:34:00.004 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-23 01:34:31.620 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-23 01:34:40.595 [main] MyStoreV1 - VerifySignOut - Failed
+[INFO ] 2022-09-23 01:35:04.815 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-23 01:35:04.816 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-23 01:35:24.382 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-23 01:35:51.891 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-23 01:35:51.964 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2022-09-23 01:36:07.454 [main] MyStoreV1 - clicked on search button
+[INFO ] 2022-09-23 01:36:21.662 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2022-09-23 01:36:25.802 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2022-09-23 01:36:25.948 [main] MyStoreV1 - size M entered
+[INFO ] 2022-09-23 01:36:26.007 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2022-09-23 01:36:36.089 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-23 01:36:46.140 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-24 08:01:48.923 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-24 08:01:49.067 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-24 08:01:53.717 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-24 08:01:53.934 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-24 08:01:54.121 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-24 08:01:56.834 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-24 08:01:56.928 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-24 08:02:00.001 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-24 08:02:00.252 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-24 08:02:03.176 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-24 08:02:03.265 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-24 08:02:03.350 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-24 08:02:09.563 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-24 08:02:14.419 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2022-09-24 08:02:14.419 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2022-09-24 08:02:29.239 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-24 08:02:29.240 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-24 08:02:42.650 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-24 08:02:46.601 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-24 08:02:46.778 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2022-09-24 08:02:49.315 [main] MyStoreV1 - clicked on search button
+[INFO ] 2022-09-24 08:02:52.919 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2022-09-24 08:02:57.073 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2022-09-24 08:02:57.250 [main] MyStoreV1 - size M entered
+[INFO ] 2022-09-24 08:02:57.322 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2022-09-24 08:03:02.385 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2022-09-24 08:03:05.992 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-09-24 08:03:08.129 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2022-09-24 08:03:08.200 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2022-09-24 08:03:10.528 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-09-24 08:03:10.564 [main] MyStoreV1 - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-09-24 08:03:15.234 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2022-09-24 08:03:34.702 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2022-09-24 08:03:34.737 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2022-09-24 08:03:51.208 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-09-24 08:03:51.210 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-24 08:04:07.187 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-25 04:52:59.083 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-25 04:52:59.141 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2022-09-25 04:53:10.890 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-25 04:53:11.001 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-25 04:53:11.097 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-25 04:53:27.079 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-25 04:53:27.127 [main] MyStoreV1 - VerifyLogin - Passed
+[INFO ] 2022-09-25 04:53:49.262 [main] MyStoreV1 - ***************TestCase Verify Login ends*****************
+[INFO ] 2022-09-25 04:53:49.292 [main] MyStoreV1 - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2022-09-25 04:54:01.790 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2022-09-25 04:54:01.904 [main] MyStoreV1 - Entered email address
+[INFO ] 2022-09-25 04:54:02.018 [main] MyStoreV1 - Entered password
+[INFO ] 2022-09-25 04:54:24.355 [main] MyStoreV1 - Clicked on sign in link..
+[INFO ] 2022-09-25 04:54:42.753 [main] MyStoreV1 - VerifySignOut - Passed
+[INFO ] 2022-09-25 04:54:42.754 [main] MyStoreV1 - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2022-09-25 04:54:56.643 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-25 04:54:56.644 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2022-09-25 04:55:02.375 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-25 04:55:10.438 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-25 04:55:10.515 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2022-09-25 04:55:13.839 [main] MyStoreV1 - clicked on search button
+[INFO ] 2022-09-25 04:55:17.484 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2022-09-25 04:55:21.882 [main] MyStoreV1 - quantity 2 entereed
+[INFO ] 2022-09-25 04:55:22.106 [main] MyStoreV1 - size M entered
+[INFO ] 2022-09-25 04:55:22.185 [main] MyStoreV1 - Clicked on add to cart
+[INFO ] 2022-09-25 04:55:40.454 [main] MyStoreV1 - Clicked on proceed to checkout on product page
+[INFO ] 2022-09-25 04:55:48.102 [main] MyStoreV1 - Clicked on proceed to checkout on order summary page
+[INFO ] 2022-09-25 04:55:56.243 [main] MyStoreV1 - Clicked on proceed to checkout on order address page
+[INFO ] 2022-09-25 04:55:57.452 [main] MyStoreV1 - selecged term of service check box
+[INFO ] 2022-09-25 04:56:02.547 [main] MyStoreV1 - Clicked on proceed to checkout on order shipping page
+[INFO ] 2022-09-25 04:56:02.978 [main] MyStoreV1 - http://automationpractice.com/index.php?controller=order&multi-shipping=
+[INFO ] 2022-09-25 04:56:07.340 [main] MyStoreV1 - Clicked on pay by cheque
+[INFO ] 2022-09-25 04:56:14.988 [main] MyStoreV1 - Clicked on confirmed order
+[INFO ] 2022-09-25 04:56:15.043 [main] MyStoreV1 - VerifyBuyProduct - Passed
+[INFO ] 2022-09-25 04:56:21.689 [main] MyStoreV1 - ***************TestCase BuyProduct ends*****************
+[INFO ] 2022-09-25 04:56:21.690 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2022-09-25 04:56:26.637 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2022-09-25 04:56:32.975 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2022-09-25 04:56:46.528 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2022-09-25 04:57:00.192 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2022-09-25 04:57:00.194 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2022-09-25 04:57:14.815 [main] MyStoreV1 - verifyAddToWishlistWithoutLogin - passed
+[INFO ] 2022-09-25 11:07:14.992 [main] MyStoreV1 - url opened
+[INFO ] 2022-09-25 11:07:15.120 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
